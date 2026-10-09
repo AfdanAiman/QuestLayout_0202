@@ -1,4 +1,9 @@
 package com.example.pam4
 
-class Act3 {
+import androidx.compose.runtime.Composable
+import androidx.compose.ui.Modifier
+
+@Composable
+fun ActivitasPertama(modifier: Modifier) {
+
 }
